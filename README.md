@@ -6,9 +6,9 @@ Manejadores de versiones en general
 git en particular.
 
 Clase 2:
-*github desktop
-**Crear y clonar repositorio
-**Commit
-**Branch
-**Merge
-**Merge con conflictos
+* github desktop
+ ** Crear y clonar repositorio
+ ** Commit
+ ** Branch
+ ** Merge
+ ** Merge con conflictos
