@@ -10,5 +10,5 @@ Clase 2:
 * Crear y clonar repositorio
 * Commit
 * Branch
-* Merge (no se como)
+* Merge no se como
 * Merge con conflictos
