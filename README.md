@@ -9,6 +9,11 @@ Clase 2:
 * github desktop
 * Crear y clonar repositorio
 * Commit
+<<<<<<< HEAD
 * Branch
 * Merge no se como
+=======
+* Branch(estamos aqui)
+* Merge
+>>>>>>> ramita
 * Merge con conflictos
