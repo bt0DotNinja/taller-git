@@ -22,4 +22,5 @@ Clase 3 git linea de comandos:
 * Ver logs (status, log)
 * Merge (merge)
 * Merge con conflictos (merge)
-* Ver Ramas desde linea de comandos (log --oneline --graph)
+* Ver Ramas desde linea de comandos (log --nonline --graph)
+Dudas ???
