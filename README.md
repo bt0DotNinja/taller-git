@@ -13,12 +13,13 @@ Clase 2 github desktop:
 * Merge con conflictos
 
 Clase 3 git linea de comandos:
+* [bash git completion] (https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
 * Crear y clonar repositorio (init, clone)
 * Revisar repositorios remotos (remote, push, pull)
 * agregar y borrar archivos (add, rm) 
 * Commit (sencillo y -m ,-am)
 * Branch (branch, checkout, -b)
-* Ver logs (status, log, log --)
-* Merge no se como
-* Merge con conflictos
-* Ver Ramas desde linea de comandos
+* Ver logs (status, log)
+* Merge (merge)
+* Merge con conflictos (merge)
+* Ver Ramas desde linea de comandos (log)
